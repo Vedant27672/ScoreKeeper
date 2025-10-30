@@ -1,6 +1,6 @@
 # ScoreKeeper
 
-Live Demo: **https://score-keeper-webb.netlify.app**
+Live Demo: **https://scorekeeper-web.netlify.app**
 
 ---
 
